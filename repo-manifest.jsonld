@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/celery/pytest-celery/commit/fdbdccf378a7d6fa3203c623c9bad238bee1e7f3",
       "git:hexsha": "fdbdccf378a7d6fa3203c623c9bad238bee1e7f3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/celery/pytest-celery/commit/97de10c73f322f1ad6edf7d8bd611b9db028ddc7",
