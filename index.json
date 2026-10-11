@@ -1,0 +1,11 @@
+{
+  "org": "celery",
+  "repo": "pytest-celery",
+  "versions": [
+    {
+      "commit": "fdbdccf378a7d6fa3203c623c9bad238bee1e7f3",
+      "tag": "",
+      "parsed_at": "2026-10-11T06:05:16.935417+00:00"
+    }
+  ]
+}
